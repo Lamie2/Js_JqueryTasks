@@ -1,0 +1,46 @@
+.effects .box{
+width: 80px;
+height: 80px;
+}
+
+.effects .box1{
+background-color: aqua;
+}
+
+.effects .box2{
+    background-color: blueviolet;
+}
+
+.effects .box3{
+    background-color: brown;
+}
+
+.effects .div-1{
+    width: 400px;
+    height: 50px;
+    background-color: darkseagreen;
+    text-align: center;
+padding: 10px;
+}
+
+.effects .div-2{
+    width: 400px;
+    height: 50px;
+    text-align: center;
+    background-color: darkseagreen;
+    display: none;
+    border: 1px solid;
+    padding: 10px;
+}
+
+.div-anim{
+    width: 100px;
+    height: 100px;
+    background-color: cornflowerblue;
+    position: absolute;
+}
+
+#btnA{
+    margin-left: 100px;
+}
+
